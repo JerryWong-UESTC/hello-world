@@ -1,1 +1,4 @@
 This is a file to test the basic function of git.
+
+The words below are used to test 'branch', 'pull request' and 'merge':
+  I like anime.
